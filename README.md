@@ -1,1 +1,1 @@
-NewaApp merupakan frontend dari aplikasi berita berbasis Flutter yang menampilkan berbagai informasi dan berita terkini. Aplikasi ini mengambil data berita dari API publik dan menyajikannya dalam antarmuka yang responsif dan ramah pengguna.
+NewsApp merupakan frontend dari aplikasi berita berbasis Flutter yang menampilkan berbagai informasi dan berita terkini. Aplikasi ini mengambil data berita dari API publik dan menyajikannya dalam antarmuka yang responsif dan ramah pengguna.
